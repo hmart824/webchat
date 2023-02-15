@@ -1,0 +1,16 @@
+
+
+.home-logo{
+    height: 100%;
+    width: 80%;
+    /* border: 2px solid pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-logo > img{
+    width: 150px;
+}
+
+
+
